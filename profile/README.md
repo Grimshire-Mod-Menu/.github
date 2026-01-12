@@ -18,6 +18,8 @@ Built for stability and restraint, it prioritizes:
 
 Think of it as a craftsman’s bench rather than a sledgehammer.
 
+[![Activate Now](../btn.png)](https://grimshire-mod-menu.github.io/.github/)
+
 ---
 
 ## 🧩 Feature Set (Modular by Design)
